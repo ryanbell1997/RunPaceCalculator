@@ -2,7 +2,7 @@
   "name": "my-5km-pace-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://ryanbell1997.github.io/my-5km-pace-app",
+  "homepage": "https://ryanbell1997.github.io/RunPaceCalculator",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
